@@ -1,4 +1,9 @@
 
+# Presentation
+# https://prezi.com/view/Iy4h1hyMGtxXggx7gfXs/
+
+# CSS Selector Reference
+# https://www.w3schools.com/cssref/css_selectors.asp
 
 library(rvest)
 library(dplyr)
